@@ -2,7 +2,7 @@ def fizzbuzz(number)
   if number == 3
     puts "Fizz"
   elsif number == 5
-  puts "Buzz"
+    puts "Buzz"
   else number == 15
     puts "FizzBuzz"
 end
