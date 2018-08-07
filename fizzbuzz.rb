@@ -5,6 +5,6 @@ def fizzbuzz(number)
     puts "Buzz"
   else number == 15
     puts "FizzBuzz"
-end
+    end
 end 
 fizzbuzz ("5")
