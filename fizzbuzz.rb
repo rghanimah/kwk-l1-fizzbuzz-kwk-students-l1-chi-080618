@@ -1,2 +1,4 @@
-def fizzbuzz()
-  
+def fizzbuzz(number)
+  if number = (3)
+  end 
+end 
